@@ -1,9 +1,6 @@
 ## python plotly Demo
 
-
 ```
-# Demo
-
 bar 
 
 histgram
@@ -14,5 +11,7 @@ scatter
 
 heatmap
 
-...
 ```
+
+[]!('./images/github-fork.png')
+
