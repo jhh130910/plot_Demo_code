@@ -14,4 +14,3 @@ heatmap
 ```
 
 ![](./images/github-fork.png)
-
