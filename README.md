@@ -13,5 +13,5 @@ heatmap
 
 ```
 
-[]!('./images/github-fork.png')
+[image]!('./images/github-fork.png')
 
