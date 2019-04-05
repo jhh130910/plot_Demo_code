@@ -1,15 +1,16 @@
 ## python plotly Demo
 
 ```
-bar 
+## plot type 
+1. bar 
 
-histgram
+2. histgram
 
-line
+3. line
 
-scatter
+4. scatter
 
-heatmap
+5. heatmap
 
 ```
 
