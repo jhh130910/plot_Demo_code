@@ -1,3 +1,3 @@
-git add *py *md
-git commit -m 'py'
+git add ./
+git commit -m 'xx'
 git push
