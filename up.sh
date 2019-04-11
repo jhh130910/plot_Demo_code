@@ -1,3 +1,3 @@
 git add ./ 
-git commit -m 'py'
+git commit -m 'new plot'
 git push
