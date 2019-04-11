@@ -1,15 +1,23 @@
 ## python plotly Demo
+## python matplotlib Demo
+
+Python Method | Package Name | Other.
+---|---|---
+plotly | - | -
+matplotlib | - | -
 
 ```
-bar 
+## plot type 
 
-histgram
+1. bar 
 
-line
+2. histgram
 
-scatter
+3. line
 
-heatmap
+4. scatter
+
+5. heatmap
 
 ```
 
